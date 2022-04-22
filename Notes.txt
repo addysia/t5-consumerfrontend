@@ -1,0 +1,6 @@
+Source: https://github.com/ahmedkhan847/react-template
+
+
+For adding routes go to src/config/routes.js file and add your route.
+
+For confugring Material-UI theme go to src/config/theme.js.
